@@ -1,0 +1,102 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Carlos Bejarano\\OneDrive\\Escritorio\\Proyectos\\prueba\\ZombieHordeDefenseSystem.Infrastructure\\ZombieHordeDefenseSystem.Infrastructure.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Carlos Bejarano\\OneDrive\\Escritorio\\Proyectos\\prueba\\ZombieHordeDefenseSystem.Domain\\ZombieHordeDefenseSystem.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Carlos Bejarano\\OneDrive\\Escritorio\\Proyectos\\prueba\\ZombieHordeDefenseSystem.Domain\\ZombieHordeDefenseSystem.Domain.csproj",
+        "projectName": "ZombieHordeDefenseSystem.Domain",
+        "projectPath": "C:\\Users\\Carlos Bejarano\\OneDrive\\Escritorio\\Proyectos\\prueba\\ZombieHordeDefenseSystem.Domain\\ZombieHordeDefenseSystem.Domain.csproj",
+        "packagesPath": "C:\\Users\\Carlos Bejarano\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Carlos Bejarano\\OneDrive\\Escritorio\\Proyectos\\prueba\\ZombieHordeDefenseSystem.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Carlos Bejarano\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net80"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net80": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net80": {
+          "targetAlias": "net8.0",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.426\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Carlos Bejarano\\OneDrive\\Escritorio\\Proyectos\\prueba\\ZombieHordeDefenseSystem.Infrastructure\\ZombieHordeDefenseSystem.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Carlos Bejarano\\OneDrive\\Escritorio\\Proyectos\\prueba\\ZombieHordeDefenseSystem.Infrastructure\\ZombieHordeDefenseSystem.Infrastructure.csproj",
+        "projectName": "ZombieHordeDefenseSystem.Infrastructure",
+        "projectPath": "C:\\Users\\Carlos Bejarano\\OneDrive\\Escritorio\\Proyectos\\prueba\\ZombieHordeDefenseSystem.Infrastructure\\ZombieHordeDefenseSystem.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Carlos Bejarano\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Carlos Bejarano\\OneDrive\\Escritorio\\Proyectos\\prueba\\ZombieHordeDefenseSystem.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Carlos Bejarano\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net80"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net80": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Carlos Bejarano\\OneDrive\\Escritorio\\Proyectos\\prueba\\ZombieHordeDefenseSystem.Domain\\ZombieHordeDefenseSystem.Domain.csproj": {
+                "projectPath": "C:\\Users\\Carlos Bejarano\\OneDrive\\Escritorio\\Proyectos\\prueba\\ZombieHordeDefenseSystem.Domain\\ZombieHordeDefenseSystem.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net80": {
+          "targetAlias": "net8.0",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.426\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
