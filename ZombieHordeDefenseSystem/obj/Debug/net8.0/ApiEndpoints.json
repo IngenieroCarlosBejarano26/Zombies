@@ -1,0 +1,43 @@
+[
+  {
+    "ContainingType": "ZombieHordeDefenseSystem.Controllers.EstrategiaController",
+    "Method": "CalcularEstrategia",
+    "RelativePath": "api/Estrategia/optimal-strategy",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "balasDisponibles",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "tiempoDisponible",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      },
+      {
+        "Type": "Microsoft.AspNetCore.Mvc.ProblemDetails",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 400
+      },
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 500
+      }
+    ]
+  }
+]

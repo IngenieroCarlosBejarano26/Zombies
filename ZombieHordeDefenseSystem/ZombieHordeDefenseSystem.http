@@ -1,0 +1,6 @@
+@ZombieHordeDefenseSystem_HostAddress = http://localhost:5053
+
+GET {{ZombieHordeDefenseSystem_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
